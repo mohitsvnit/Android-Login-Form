@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginAsssignment</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login_successful">LoginSuccessful</string>
+</resources>

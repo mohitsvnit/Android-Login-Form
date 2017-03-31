@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_register"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fbColor"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="ando.com.loginasssignment.RegisterActivity"
+    tools:showIn="@layout/activity_register">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:orientation="vertical"
+        android:background="#f2f0f0"
+        android:weightSum="1"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="0.05"
+            android:text="Register to Facebook"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            >
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/etFName"
+                android:layout_weight="0.5"
+                android:hint="First Name"
+                android:inputType="textPersonName"
+                android:maxLines="1"
+                android:gravity="center|bottom"
+                android:layout_marginLeft="20dp"
+                />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/etLName"
+                android:layout_weight="0.5"
+                android:hint="Last Name"
+                android:inputType="textPersonName"
+                android:maxLines="1"
+                android:gravity="center|bottom"
+                android:layout_marginRight="20dp"
+                />
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/etEmail"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Email Adress"
+            android:inputType="textEmailAddress"
+            android:gravity="center_horizontal|bottom"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:maxLines="1"
+
+
+            />
+        <EditText
+            android:id="@+id/etPass"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="0.05"
+            android:hint="Password"
+            android:gravity="center_horizontal|bottom"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="-10dp"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            />
+        <EditText
+            android:id="@+id/etConfPass"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="0.05"
+            android:hint="Confirm Password"
+            android:gravity="center_horizontal|bottom"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            />
+
+        <TextView
+            android:id="@+id/tvBDate"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Birth Date"
+            android:gravity="center"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            />
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="25dp"
+            android:text="Hobbies"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:orientation="horizontal"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            >
+
+            <CheckBox
+                android:id="@+id/cbReading"
+                android:layout_width="100dp"
+                android:layout_height="20dp"
+                android:text="Reading"
+                />
+            <CheckBox
+                android:id="@+id/cbMovies"
+                android:layout_width="100dp"
+                android:layout_height="20dp"
+                android:text="Movies"
+                />
+            <CheckBox
+                android:id="@+id/cbArts"
+                android:layout_width="100dp"
+                android:layout_height="20dp"
+                android:text="Arts"
+                />
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_marginLeft="5dp"
+                android:text="Gender: "
+                android:textSize="17dp"
+                android:textStyle="bold"
+                />
+            <CheckBox
+                android:id="@+id/cbMale"
+                android:layout_width="100dp"
+                android:layout_height="20dp"
+                android:text="Male"
+                />
+            <CheckBox
+                android:id="@+id/cbFemale"
+                android:layout_width="100dp"
+                android:layout_height="20dp"
+                android:text="Female"
+                />
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="0.28"
+            android:layout_margin="20dp"
+            android:text="Register"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:backgroundTint="@color/fbColor"
+            />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

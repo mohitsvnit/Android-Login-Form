@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.0_de705138c06e86726e896919177c9d14e57d2c75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.0_326ac89f2aa2503c075fc36777cd07ca2e2b2fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.0_f910f498e14f0f93cc608c8d8da2d8f9c6e3f7e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.0_0894fec29dc639b666b249a3415d9af7cdac907e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_7192b558a2d852f6bd8ff2ad5ce93855f2e595e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.0_cdd6eb3e29009838d896de4c7eda750e6ad21623/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.0_74e144d294ed6e738b62d14661534580dc786d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1e62fa2df9908e2a88be6feb7f69fd564a0ba20">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_744e4e1be27d4c12964bf0951e1908a2ea41cb02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.0_2ec2247166544571f8a41ebbbb9cdcae5cb939c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.0_ff43ed62d11efad9bee547a002349da342bbff9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.0_47a763822c273b8f5cf42606ae7e2233b4b273e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.0_48d53314d1bc159785e10c61f9bf103127036fd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f0725a3879ffd467006ceebcee9e3fd3a276e89">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3374fa97fcd2f4e44f200b00cf7604ac3f76c54e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.0_736ddfe5ce1c03f54196f334ff432e1fb0856d09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/mohit/AndroidStudioProjects/LoginAsssignment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.0_8fc5a2fcd3fe4405f7e6735d1cac1861e78fbff5/classes.dex" />
+    </item>
+
+</items>
